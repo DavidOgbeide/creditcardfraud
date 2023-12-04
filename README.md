@@ -11,6 +11,3 @@
 #Handling Imbalanced Classes: Applying techniques like oversampling (SMOTE), undersampling, or using class weights to address the imbalance issue.
 #Hyperparameter Tuning: Optimizing model parameters to improve performance.
 #Deployment and Monitoring: Implementing the chosen model into a production environment and continuously monitoring its performance.
-
-df = pd.read_csv("C:/Users/drdav/Downloads/archive(1)/creditcard_2023.csv")
-df.head()
